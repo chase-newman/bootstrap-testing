@@ -1,4 +1,10 @@
 #banner-row {
-    background-image: url("../../media/examples/lizard.png");
-    height: 300px
+    background-color: coral;
+    height: 400px;
+    text-align: center;
+}
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 8em;
+    color: white;
 }
