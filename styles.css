@@ -12,3 +12,7 @@ h2 {
     color: rgb(0, 216, 61);
     padding: 0;
 }
+.card {
+    padding: 25px;
+    box-shadow: 10px 5px 5px black;
+}
