@@ -10,6 +10,4 @@ as you go
 11.20.2022
 Testing new GitHub Token
 
-GitHub Token = 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
-
-git remote add origin https://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@github.com/chase-newman/bootstrap-testing.git
+Updated with new token
