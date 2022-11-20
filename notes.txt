@@ -5,3 +5,7 @@ CoinAPI only allows for 100 calls today - seems pretty limiting
 Run the text editor as a sidebar
 to the code so you can type notes 
 as you go 
+
+
+11.20.2022
+Testing new GitHub Token
