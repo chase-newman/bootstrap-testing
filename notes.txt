@@ -1,0 +1,4 @@
+Working through Crypto APIs for this project
+Want to build out an interface with bootstrap "cards"
+Each card with a coin price
+CoinAPI only allows for 100 calls today - seems pretty limiting
